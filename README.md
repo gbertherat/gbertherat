@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 I'm Bertherat Guillaume</h1>
-<h3 align="center">A passionate full stack french developer</h3>
+<h3 align="center">A passionate computer science student and full stack enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbertherat&label=Profile%20views&color=00acff&style=flat-square" alt="gbertherat" /> </p>
 
