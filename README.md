@@ -7,7 +7,7 @@
 
 - 🔭 I’m also working on [Machine Learning](https://github.com/adriens/person-counter-api)
 
-- 🌱 I’m currently learning **Image Processing and OpenCV**
+- 🌱 I’m currently learning **Machine Learning**
 
 - :mailbox: How to reach me **bertherat.guillaume@gmail.com**
 
