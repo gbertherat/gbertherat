@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [Generative Art](https://github.com/adriens/web-generative-art-temps-attente-opt)
 
+- 🔭 I’m also working on [Machine Learning](https://github.com/adriens/person-counter-api)
+
 - 🌱 I’m currently learning **Image Processing and OpenCV**
 
 - :mailbox: How to reach me **bertherat.guillaume@gmail.com**
