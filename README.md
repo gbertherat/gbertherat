@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbertherat&label=Profile%20views&color=00acff&style=flat-square" alt="gbertherat" /> </p>
 
-- 🔭 I’m currently working on [Generative Art](https://github.com/adriens/web-generative-art-temps-attente-opt)
-
-- 🔭 I’m also working on [Machine Learning](https://github.com/adriens/person-counter-api)
-
-- 🌱 I’m currently learning **Machine Learning**
-
 - :mailbox: How to reach me **bertherat.guillaume@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
